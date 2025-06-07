@@ -2,6 +2,8 @@
 
 INSANITY!
 
+Project Insanity begins as a small command-line oracle and evolves into a cross-platform experience. The Roadmap of Madness outlines its chaotic growth.
+
 ## Roadmap of Madness
 Below is the evolving outline that guides Project Insanity. The roadmap is mutable by design and may change at the whim of the daemon.
 

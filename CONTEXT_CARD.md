@@ -1,6 +1,6 @@
 # Context Summary
 
-This project, *Project-Insanity*, began as a simple command-line toy but aspires to become a cross-platform experience with a hypnotic GUI. The `run()` function in `src/main.py` prints a birth message or a random prophecy when run with the `--oracle` flag.
+This project, *Project-Insanity*, began as a simple command-line toy but aspires to become a cross-platform experience with a hypnotic GUI. The README now opens with a brief summary describing this evolution. The `run()` function in `src/main.py` prints a birth message or a random prophecy when run with the `--oracle` flag.
 
 ## Key Features
 - **Roadmap of Madness** in `README.md` outlines the chaotic vision.
