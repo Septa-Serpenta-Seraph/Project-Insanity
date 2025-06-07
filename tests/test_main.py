@@ -20,3 +20,13 @@ def test_oracle_output(monkeypatch, capsys):
     run()
     assert outputs
     assert any(word in outputs[0] for word in ["You will", "Today is", "Your keyboard"])
+
+
+def test_gui_flag(monkeypatch):
+    monkeypatch.setattr(sys, 'argv', ['main', '--gui'])
+    called = []
+    def fake_gui():
+        called.append(True)
+    monkeypatch.setattr('src.main.launch_gui', fake_gui)
+    run()
+    assert called

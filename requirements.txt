@@ -1,3 +1,4 @@
 requests
 numpy
 # Example dependencies for future experimentation
+pyinstaller  # for packaging the GUI into executables

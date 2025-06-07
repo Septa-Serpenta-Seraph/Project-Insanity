@@ -155,8 +155,23 @@ Need an omen? Try the oracle mode:
 python -m src.main --oracle
 ```
 
+Launch the experimental GUI:
+
+```bash
+python -m src.main --gui
+```
+
 ### Known Side Effects
 Running the oracle may induce visions, nonsense, or joy.
+
+## Packaging as an Executable
+Install `pyinstaller` and run:
+
+```bash
+pyinstaller --onefile src/main.py
+```
+
+The resulting executable can be found in the `dist/` directory.
 
 ## Contributing
 Pull requests are welcome. Open an issue to discuss major changes before submitting a PR.
