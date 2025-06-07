@@ -1,0 +1,3 @@
+requests
+numpy
+# Example dependencies for future experimentation
