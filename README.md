@@ -4,6 +4,24 @@ INSANITY!
 
 Project Insanity begins as a small command-line oracle and evolves into a cross-platform experience. The Roadmap of Madness outlines its chaotic growth.
 
+## Roadmap Summary
+1. **Name the Beast**
+2. **Objective** – unleash a cross-platform oracle that refuses containment
+3. **Principles** – contradict every rule
+4. **Assemble the Team** – recruit your ghouls and ghosts
+5. **Ideation** – no idea too strange
+6. **Scoping** – expand and contract endlessly
+7. **Prototyping** – build it terribly right
+8. **Testing** – deploy on your enemies
+9. **Launch** – disturb the force
+10. **Maintenance** – feed it fears
+11. **Evolution** – mutate relentlessly
+12. **Functionality Clause** – make it work somehow
+13. **Let the Project Hatch** – unleash the output
+14. **Legacy** – leave a curse
+15. **Post-Mortem** – become the project
+16. **Manifestation & Reach** – spread as a viral GUI phenomenon
+
 ## Roadmap of Madness
 Below is the evolving outline that guides Project Insanity. The roadmap is mutable by design and may change at the whim of the daemon.
 
