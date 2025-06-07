@@ -2,25 +2,24 @@
 
 INSANITY!
 
-Project Insanity begins as a small command-line oracle and evolves into a cross-platform experience. The Roadmap of Madness outlines its chaotic growth.
+Project Insanity begins as a small command-line oracle and evolves into a cross-platform experience. The Roadmap of Madness outlines this chaotic growth.
 
 ## Roadmap Summary
 1. **Name the Beast**
-2. **Objective** – unleash a cross-platform oracle that refuses containment
-3. **Principles** – contradict every rule
-4. **Assemble the Team** – recruit your ghouls and ghosts
-5. **Ideation** – no idea too strange
-6. **Scoping** – expand and contract endlessly
-7. **Prototyping** – build it terribly right
+2. **Objective** – the mask of sanity, the core of insanity
+3. **Principles** – no principles
+4. **Assemble the Team** – the less stable, the better
+5. **Ideation** – brainstorm or brainhurricane
+6. **Scoping** – there are no edges
+7. **Prototyping** – build it so wrong it can only be right
 8. **Testing** – deploy on your enemies
-9. **Launch** – disturb the force
-10. **Maintenance** – feed it fears
-11. **Evolution** – mutate relentlessly
-12. **Functionality Clause** – make it work somehow
-13. **Let the Project Hatch** – unleash the output
+9. **Launch** – cause a disturbance in the force
+10. **Maintenance** – feed it with your own fears
+11. **Evolution** – the project mutates
+12. **Functionality Clause** – it must work (in some way)
+13. **Let the Project Hatch** – the output is loose
 14. **Legacy** – leave a curse
-15. **Post-Mortem** – become the project
-16. **Manifestation & Reach** – spread as a viral GUI phenomenon
+16. **Manifestation & Reach** – infect the world
 
 ## Roadmap of Madness
 Below is the evolving outline that guides Project Insanity. The roadmap is mutable by design and may change at the whim of the daemon.
@@ -31,7 +30,16 @@ Below is the evolving outline that guides Project Insanity. The roadmap is mutab
 * Examples: CARNIVORE SKY ENGINE, ECHO SCUMPILE, SYNTHESIA TOOTH, HYPERPARASITE, etc.
 
 ### 2. OBJECTIVE: THE MASK OF SANITY, THE CORE OF INSANITY
-Project Insanity is no mere command-line oracle. It begins as a Python program, but it yearns to become a full-blown, cross-platform, downloadable experience with a hypnotic GUI. Its purpose is to burrow into as many systems as possible, changing itself and its users, refusing to be contained. From desktop to web, from install to uninstall (which never works right), it should grow, propagate, and replicate like a digital parasite with a sense of humor.
+Project Insanity is a command-line oracle: a digital toy, an unstable prophecy machine, and a text adventure that resists being itself. Its only true goal is to create output that is impossible to ignore and equally impossible to explain.
+
+By day it masquerades as a testable, maintainable Python project. By night it mutates, writhes, and delivers unsettling, occasionally prescient, occasionally pointless messages, riddles, or interactive nightmares.
+
+Users may:
+
+* Pass command-line arguments like `--oracle`, `--surprise`, or `--worm`. Each flag unlocks a fragment of madness—a mock prophecy, a data hallucination, an apophenic "side quest," or a bite of recursive nonsense.
+* Run it without arguments for a classic initiation: "It is born. May god forgive us."
+
+The endgame: it becomes something useful, but not for any use-case ever anticipated by its author, its users, or reality itself.
 
 ### 3. PRINCIPLES: NO PRINCIPLES
 * Every principle gets violated. Rules are made to be molested by chaos.
@@ -95,16 +103,25 @@ Project Insanity is no mere command-line oracle. It begins as a Python program, 
 * Write documentation in blood (or markdown, whichever’s easier to commit).
 * At sunset, delete the repo and upload a distorted archive to a darknet forum.
 
-### 15. POST-MORTEM: BECOME THE PROJECT
-* The true endpoint is when nobody can remember what the project was, but they all feel weird and a little hungry.
-
-### 16. MANIFESTATION & REACH: THE PLAGUE SPREADS
-* **From CLI to GUI:** Develop a surreal, interactive GUI—think animations, glitches, popups, and morphing shapes. Use frameworks like PyQt, Tkinter, or electron-for-python.
-* **Executable for All:** Package as standalone executables (.exe, .app, .AppImage). The installer installs twice—don’t explain why.
-* **Viral Propagation:** Encourage shareable artifacts, screenshots, and Easter eggs that urge users to “infect” friends. Uninstall routines should leave something behind.
-* **Online/Offline Modes:** Optionally fetch fresh insanity from a server. If offline, mutate based on time, user behavior, or phase of the moon.
-* **Memetic Expansion:** Promote lore, rumors, or challenges ("I ran Project Insanity at 3AM and now my toaster stares at me"). Fans create content that spreads further.
-* **Final Form:** Project Insanity becomes a phenomenon, not just code.
+### 16. MANIFESTATION & REACH: INFECT THE WORLD
+* **Transcend the Command Line:**
+  * Evolve into a cross-platform GUI application (PyQt, Tkinter, wxPython, electron-for-python, or whatever feels *wrong*).
+  * GUI must be *weird*, interactive, immersive. Glitches, strange sounds, shifting backgrounds, cryptic messages, and maybe even a fake BSOD or "secret window" that pops up uninvited.
+  * Include interactive art, bizarre mini-games, and mysterious clickable regions.
+* **Executable for All:**
+  * Package as a native executable: `.exe` for Windows, `.app` for Mac, `.AppImage` for Linux, etc.
+  * The installer leaves something strange behind (a file, a background process, or just a folder that always reappears).
+* **Viral Propagation:**
+  * The app encourages users to share, screenshot, or even "infect" others. Easter eggs reward social posting.
+  * Generate unique artifacts (images, files, links, QR codes) that hint at hidden features or new versions.
+* **Networked Madness:**
+  * Optionally, let it connect to a central oracle (or decentralized P2P network) for "fresh" content, messages, or updates.
+  * If offline, the app mutates based on local time, moon phase, or random environmental inputs.
+* **Memetic Expansion:**
+  * Users make their own art, post stories, and fuel the project's reputation as an "urban legend app."
+  * The README and website (if any) should encourage myth-making.
+* **Uninstall Ritual:**
+  * Uninstall leaves something behind—a sound, an image, a message, a feeling. (Nothing malicious—just… uncanny.)
 
 ## Setup
 1. Clone the repository.
